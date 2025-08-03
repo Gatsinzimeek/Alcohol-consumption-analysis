@@ -109,7 +109,8 @@ This section outlines a **systematic, reproducible workflow** executed in **Goog
     plt.show()
     ```
   - **Visualization**:
-    <img width="778" height="387" alt="Image" sac="https://github.com/user-attachments/assets/7f81fe33-5e84-4c16-8c1f-0d22569cfa67" />
+  ![Architecture Diagram](screenshoot/consgraph.png)
+
 ### 3. Machine Learning Modeling 🤖
 - **Objective**: Build predictive models to identify factors influencing alcohol consumption.
 - **Initial Model**:

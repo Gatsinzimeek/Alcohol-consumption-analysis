@@ -25,7 +25,7 @@ This project provides a **comprehensive analysis** of global alcohol consumption
 ---
 
 ## 📊 Dataset Information
-- **Source**: [WHO Global Health Observatory](https://www.who.int/data/gho) 🌐
+- **Source**: [WHO Global Health Observatory](https://data.who.int/indicators/i/EF38E6A/EE6F72A?m49=646) 🌐
 - **Coverage**: Global, with country-level granularity
 - **Time Period**: 2000–2022 (varies by country) 🕰️
 - **Format**: CSV / Excel 📑
